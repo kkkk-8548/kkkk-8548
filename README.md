@@ -11,7 +11,7 @@ SQl - Databases - Power BI - Data Visualization - dbt - ETL - Python - Statistic
 ------------------------------------------------------------------------
 ## 👩🏻‍💻 About me
 
-I have a background in Civil Engineering and an MBA in Production Engineering and Economics, but I found myself in the world of data, and for the last 4 years, I’ve been working in the area as a data analyst. 
+I have a background in Civil Engineering and an MBA in Production Engineering and Economics, but I found myself in the world of data, and for the last 4 years, I’ve been working as a data analyst. 
 
 I am currently studying Data Science and Data Visualization in a postgraduate program at PUC-Rio.
 
