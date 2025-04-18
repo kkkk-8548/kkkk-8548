@@ -4,7 +4,7 @@
 -------------------------------------------------------------------------
 # Hi 👋 I’m Karina
 
-#### An enthusiastic data analyst interested in new technologies, advanced analytics and analytics engineering 
+#### An data analyst interested in new technologies, advanced analytics and analytics engineering 
 
 SQl - Databases - Power BI - Data Visualization - dbt - ETL - Python - Statistics
 
